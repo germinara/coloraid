@@ -1,0 +1,52 @@
+/* 
+  coloraid.strings
+  coloraid
+
+  Created by francesco on 8/11/12.
+  Copyright (c) 2012 Softech di Germinara Francesco - www.germinara.it info@germinara.it. All rights reserved.
+*/
+
+"RED" = "Red";
+"DARKRED" = "Dark Red";
+"LIGHTRED" = "Light Red";
+
+"GREEN" = "Green";
+"DARKGREEN" = "Dark Green";
+"LIGHTGREEN" = "Light Green";
+
+"VIOLET" = "Violet";
+"ORCHID" = "Orchid";
+"PURPLE" = "Purple";
+
+"ORANGE" = "Orange";
+"BRICK" = "Brick";
+"LIGHTORANGE" = "Light Orange";
+
+"BROWN" = "Brown";
+"DARKBROWN" = "Dark Brown";
+"KHAKI" = "Khaki";
+
+"BLUE" = "Blue";
+"DARKBLUE" = "Dark Blue";
+"LIGHTBLUE" = "Light Blue";
+
+"YELLOW" = "Yellow";
+"DARKYELLOW" = "Dark Yellow";
+"LIGHTYELLOW" = "Light Yellow";
+
+"BLACK" = "Black";
+"WHITE" = "White";
+
+"SILVER" = "Silver";
+"GOLD" = "Gold";
+
+"DARKGRAY" = "Dark Gray";
+"LIGHTGRAY" = "Light Gray";
+
+
+"TITLEDETAIL" ="Color detail";
+
+
+
+
+
