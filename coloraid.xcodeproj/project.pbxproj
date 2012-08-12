@@ -42,6 +42,7 @@
 		1345C96A15D46CBA005639B4 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1345C96715D46CBA005639B4 /* AudioToolbox.framework */; };
 		1345C96C15D46CBA005639B4 /* CoreAudio.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1345C96915D46CBA005639B4 /* CoreAudio.framework */; };
 		13C9A9E615D739E4000F7A72 /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 13C9A9E515D739E4000F7A72 /* Icon@2x.png */; };
+		13CDE31B15D86DB200D9F6C2 /* readme.md  in Resources */ = {isa = PBXBuildFile; fileRef = 13CDE31A15D86DB200D9F6C2 /* readme.md  */; };
 		13F61C7515D6673C0033A491 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 13F61C7315D6673C0033A491 /* Localizable.strings */; };
 		13F61C7815D69C030033A491 /* FGTableViewColorCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 13F61C7715D69C030033A491 /* FGTableViewColorCell.m */; };
 		13F61C7B15D69CF10033A491 /* FGTableColorsDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13F61C7A15D69CF10033A491 /* FGTableColorsDelegate.m */; };
@@ -100,6 +101,7 @@
 		1345C96715D46CBA005639B4 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
 		1345C96915D46CBA005639B4 /* CoreAudio.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreAudio.framework; path = System/Library/Frameworks/CoreAudio.framework; sourceTree = SDKROOT; };
 		13C9A9E515D739E4000F7A72 /* Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon@2x.png"; path = "code/Icon@2x.png"; sourceTree = "<group>"; };
+		13CDE31A15D86DB200D9F6C2 /* readme.md  */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "readme.md "; sourceTree = "<group>"; };
 		13F61C7415D6673C0033A491 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
 		13F61C7615D69C030033A491 /* FGTableViewColorCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FGTableViewColorCell.h; sourceTree = "<group>"; };
 		13F61C7715D69C030033A491 /* FGTableViewColorCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FGTableViewColorCell.m; sourceTree = "<group>"; };
@@ -266,6 +268,7 @@
 		13F9368315C85E3500BD3439 = {
 			isa = PBXGroup;
 			children = (
+				13CDE31A15D86DB200D9F6C2 /* readme.md  */,
 				13F9369815C85E3500BD3439 /* coloraid */,
 				13F9369115C85E3500BD3439 /* Frameworks */,
 				13F9368F15C85E3500BD3439 /* Products */,
@@ -412,6 +415,7 @@
 				1320634B15D7326C00D5B781 /* 188-paint-roller@2x.png in Resources */,
 				1320634D15D732D600D5B781 /* 112-group@2x.png in Resources */,
 				13C9A9E615D739E4000F7A72 /* Icon@2x.png in Resources */,
+				13CDE31B15D86DB200D9F6C2 /* readme.md  in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
